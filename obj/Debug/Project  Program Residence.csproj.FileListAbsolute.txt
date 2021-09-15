@@ -1,0 +1,11 @@
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\bin\Debug\Project  Program Residence.exe.config
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\bin\Debug\Project  Program Residence.exe
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\bin\Debug\Project  Program Residence.pdb
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\obj\Debug\Project  Program Residence.csproj.AssemblyReference.cache
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\obj\Debug\Project__Program_Residence.Form1.resources
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\obj\Debug\Project__Program_Residence.Properties.Resources.resources
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\obj\Debug\Project__Program_Residence.Splash.resources
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\obj\Debug\Project  Program Residence.csproj.GenerateResource.cache
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\obj\Debug\Project  Program Residence.csproj.CoreCompileInputs.cache
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\obj\Debug\Project  Program Residence.exe
+D:\KULIAH\Sem 5\Vispro\Project  Program Residence\obj\Debug\Project  Program Residence.pdb
